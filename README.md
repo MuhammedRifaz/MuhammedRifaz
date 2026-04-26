@@ -1,186 +1,190 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=rounded&height=280&color=FDF5E6&text=Mohammed%20Rifaz&fontColor=5C4033" />
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C5A47E&center=true&vCenter=true&width=750&lines=Tech+%7C+Design+%7C+Business;Linux+%7C+Multiboot+%7C+OS+Systems;Web+%7C+App+Development;Networking+%7C+Internet+Systems;Robotics+%7C+AI+%7C+Automation;Hackintosh+%7C+System+Engineering;Building+Real+World+Projects" />
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=FDF5E6&text=Mohammed%20Rifaz&fontColor=5C4033&fontSize=52&fontAlignY=50&desc=Tech%20%E2%80%A2%20Design%20%E2%80%A2%20Business&descFontColor=C5A47E&descAlignY=72&descSize=18&animation=fadeIn" />
+
 </div>
 
-<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=C5A47E&center=true&vCenter=true&width=700&lines=Linux+%7C+Systems+%7C+Networks;Web+Development+%7C+WordPress;Graphic+Design+%7C+Brand+Identity;3D+Modelling+%7C+Video+Production;Aspiring+Entrepreneur+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<br/>
 
 <div align="center">
-  <a href="mailto:mohammedrifaz0192@gmail.com">
-    <img src="https://img.shields.io/badge/Email-C5A47E?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/muhammed._.rifaz">
-    <img src="https://img.shields.io/badge/Instagram-C5A47E?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MuhammedRifaz&label=Profile%20Views&color=C5A47E&style=for-the-badge" />
+
+[![Email](https://img.shields.io/badge/Email-mohammedrifaz0192%40gmail.com-C5A47E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3E1F00)](mailto:mohammedrifaz0192@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-muhammed._.rifaz-C5A47E?style=for-the-badge&logo=instagram&logoColor=white&labelColor=3E1F00)](https://instagram.com/muhammed._.rifaz)
+[![Location](https://img.shields.io/badge/Mangalore-Karnataka%2C%20India-C5A47E?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=3E1F00)](https://maps.google.com)
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammedRifaz&label=Profile+Views&color=C5A47E&style=for-the-badge)
+
 </div>
 
 ---
 
-🎓 Commerce (CEBA) Student | 💻 Tech Enthusiast | 🚀 Aspiring Entrepreneur
+<div align="center">
 
-I build things across **technology + design + business** — from systems and networks to full brand identities and websites.
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🎓 PUC Commerce CEBA  ·  💻 Tech Enthusiast  ·  🚀 Entrepreneur │
+│       I build across technology, design, and business           │
+│        from systems and networks to brands and websites         │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-# 🚀 About Me
+## 🪵 About Me
 
-* 🔧 Skilled in **Linux, Multiboot Systems & OS Setup**
-* 🌐 Building **Websites (WordPress + HTML/CSS)**
-* 🎨 Passionate about **Graphic Design, Branding & 3D**
-* 📚 Author of technical books on **Computer Networks & Systems**
-* 🧠 Self-learner exploring **AI, Networking & Entrepreneurship**
-* 🤖 Currently focusing on **Robotics, App Development, AI Agents & Hackintosh**
+> *"I don't just learn — I build real systems, brands, and ideas from scratch."*
+
+- 🎓 **Commerce (CEBA)** student at Aloysius College, Mangalore
+- 📚 **Self-authored** two technical books on computers and networking
+- 🌐 **Built and hosted** real websites and apps for local businesses
+- 🎨 **Freelance designer** — logos, labels, brand identity, packaging
+- 🐧 **Linux enthusiast** — multiboot systems, OS setup, and kernel exploration
+- 🤖 Currently exploring **Robotics, AI Agents, App Development & Hackintosh**
+- 💡 Aspiring **entrepreneur** building at the intersection of tech and creativity
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 💻 Technical
+### 💻 Technical Skills
 
-* GRUB Customisation & Multi-OS Booting
-* Computer Hardware & Assembly
-* Networking & Protocols
-* Web Development (HTML, CSS, WordPress)
-* Git & Version Control
-* Linux (Ubuntu, Kali, Mint, CachyOS)
+| Area | Details |
+|------|---------|
+| 🐧 **Linux & Systems** | Ubuntu · Kali · Mint · CachyOS · GRUB · Multiboot |
+| 🌐 **Web Development** | HTML · CSS · JavaScript · WordPress · WooCommerce · Elementor |
+| 🔧 **Hardware** | Computer Assembly · Troubleshooting · OS Installation |
+| 🌍 **Networking** | TCP/IP · Protocols · Internet Infrastructure · Wireshark |
+| 🔁 **Dev Tools** | Git · VS Code · VirtualBox · LocalWP · Arduino |
+| 🤖 **AI & Automation** | Prompt Engineering · AI Agents · Local LLMs (Ollama) |
 
-### 🎨 Creative
+### 🎨 Creative Skills
 
-* Adobe Illustrator
-* Adobe InDesign (Book Formatting)
-* Premiere Pro / CapCut
-* Blender (3D Modelling)
-* Photo & Video Editing
-* Vector Graphics & Branding
+| Area | Details |
+|------|---------|
+| ✏️ **Graphic Design** | Adobe Illustrator · Logo · Branding · Vector Art |
+| 📄 **Publishing** | Adobe InDesign · Book Layout · Technical Documentation |
+| 🎬 **Video** | Adobe Premiere Pro · CapCut · Editing & Production |
+| 🧊 **3D Design** | Blender · Modelling · Rendering |
+| 🏷️ **Brand Identity** | Product Labels · Packaging · Visual Identity Systems |
 
 ---
 
 ## 💻 Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=light" />
+</div>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧰 Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,wordpress,git,blender,ps,ai,pr" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,wordpress,git,blender,ai,pr,ps&theme=light" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/InDesign-C5A47E?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CapCut-C5A47E?style=for-the-badge&logo=capcut&logoColor=white"/>
-</p>
+<br/>
 
----
+<div align="center">
 
-## 📂 Projects
+![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![LocalWP](https://img.shields.io/badge/LocalWP-3B82F6?style=for-the-badge&logoColor=white)
+![Ghost](https://img.shields.io/badge/Ghost-15171A?style=for-the-badge&logo=ghost&logoColor=white)
+![Rufus](https://img.shields.io/badge/Rufus-5C4033?style=for-the-badge&logoColor=white)
+![Ventoy](https://img.shields.io/badge/Ventoy-C5A47E?style=for-the-badge&logoColor=white)
 
-### 📘 The Computer Expedition (Book Series)
-
-* Wrote detailed books on:
-
-  * Computer hardware & software
-  * Networking (Wi-Fi, TCP/IP, routing, etc.)
-* Created structured chapters, diagrams & explanations
+</div>
 
 ---
 
-### 💻 Multiboot Linux Lab
+## 📂 Featured Projects
 
-* Built advanced multiboot system using:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  * Multiple Linux distros
-  * USB boot tools
-* Tested and explored system-level concepts
+### 📘 The Computer Expedition Series
+**Self-Authored Technical Books · 2024–Present**
 
----
+Two full-length books written independently:
+- **Vol. 1** — Computer hardware, software & systems
+- **Vol. 2** — Networking: Wi-Fi, TCP/IP, routing, cybersecurity & Wireshark
 
-### 🏢 Digrees Agro Products (Brand Project)
+> Structured chapters, diagrams, and indexes — written entirely from scratch.
 
-* Designed:
+</td>
+<td width="50%" valign="top">
 
-  * Logo, labels & packaging
-* Built:
+### 🐧 Multiboot Linux Lab
+**Personal Systems Project · 2024**
 
-  * Full website using WordPress + WooCommerce
-* Created:
+Advanced multiboot environment on a 1TB SSD:
+- Kali · Ubuntu · Mint · CachyOS + more
+- Ventoy · GRUB customisation · USB boot tools
+- System administration & kernel-level exploration
 
-  * Brand identity + digital presence
+> Hands-on OS and hardware experimentation lab.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌿 Digrees Agro Products
+**Freelance Brand & Digital Project · 2023**
+
+End-to-end brand and digital presence for a Karnataka-based organic food brand:
+- Designed logo, product labels & packaging in Adobe Illustrator
+- Built and hosted full website using WordPress, WooCommerce & Elementor
+- Developed a companion mobile app
+- Delivered complete brand identity across print & digital touchpoints
+
+> Solo end-to-end project — design, development, and deployment.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedRifaz&show_icons=true&bg_color=fdf5e6&title_color=c5a47e&text_color=4a3a31&border_color=fdf5e6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedRifaz&layout=compact&bg_color=fdf5e6&title_color=c5a47e&text_color=4a3a31&border_color=fdf5e6" />
-</p>
-
----
-
-## 🎯 Interests
-
-* 💡 Technology & Innovation
-* 📡 Networking & Internet Systems
-* 🎬 Video Production & Editing
-* 🎨 Design & Creativity
-* 🧩 Problem Solving (Rubik’s Cube)
-
----
-
-## 🧰 Tools I Use (My Real Setup)
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedRifaz&show_icons=true&bg_color=FDF5E6&title_color=8B4513&text_color=5C4033&icon_color=C5A47E&border_color=C5A47E&border_radius=10" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedRifaz&layout=compact&bg_color=FDF5E6&title_color=8B4513&text_color=5C4033&border_color=C5A47E&border_radius=10" height="160"/>
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rufus-5C4033?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/LocalWP-3B82F6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LocalSend-00C896?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ghost-15171A?style=for-the-badge&logo=ghost&logoColor=white"/>
-<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
-
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammedRifaz&theme=warm&background=FDF5E6&ring=C5A47E&fire=8B4513&currStreakLabel=5C4033&border=C5A47E&dates=7A5230&sideLabels=5C4033&currStreakNum=8B4513&sideNums=8B4513" />
+</div>
 
 ---
 
-## 📫 Contact Me
+## 🎯 Interests & Beyond
 
-* 📧 Email: [mohammedrifaz0192@gmail.com](mailto:mohammedrifaz0192@gmail.com)
-* 📍 India, Karnataka
+<div align="center">
 
----
+| 💡 | 📡 | 🎬 | 🎨 | 🧩 | 🕹️ |
+|---|---|---|---|---|---|
+| Technology & Innovation | Networking & Internet Systems | Video Production & Editing | Design & Creativity | Problem Solving & Puzzles | Sim Racing & Hardware Builds |
 
-<p align="center">
-  <i>"I don’t just learn — I build real systems, brands, and ideas from scratch."</i>
-</p>
-
----
+</div>
 
 ---
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=60&color=FDF5E6&text=Open%20to%20collaborations%20%E2%80%A2%20internships%20%E2%80%A2%20freelance%20work&fontColor=C5A47E&fontSize=14&fontAlignY=50&animation=fadeIn"/>
 
+</div>
