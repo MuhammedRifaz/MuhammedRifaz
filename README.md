@@ -19,7 +19,7 @@
 
 </div>
 
----
+-----
 
 <div align="center">
 
@@ -33,11 +33,11 @@
 
 </div>
 
----
+-----
 
 ## 🪵 About Me
 
-> *"I don't just learn — I build real systems, brands, and ideas from scratch."*
+> *“I don’t just learn — I build real systems, brands, and ideas from scratch.”*
 
 - 🎓 **Commerce (CEBA)** student at Aloysius College, Mangalore
 - 📚 **Self-authored** two technical books on computers and networking
@@ -47,32 +47,40 @@
 - 🤖 Currently exploring **Robotics, AI Agents, App Development & Hackintosh**
 - 💡 Aspiring **entrepreneur** building at the intersection of tech and creativity
 
----
+-----
 
 ## 🛠️ Skills & Tools
 
 ### 💻 Technical Skills
 
-| Area | Details |
-|------|---------|
-| 🐧 **Linux & Systems** | Ubuntu · Kali · Mint · CachyOS · GRUB · Multiboot |
-| 🌐 **Web Development** | HTML · CSS · JavaScript · WordPress · WooCommerce · Elementor |
-| 🔧 **Hardware** | Computer Assembly · Troubleshooting · OS Installation |
-| 🌍 **Networking** | TCP/IP · Protocols · Internet Infrastructure · Wireshark |
-| 🔁 **Dev Tools** | Git · VS Code · VirtualBox · LocalWP · Arduino |
-| 🤖 **AI & Automation** | Prompt Engineering · AI Agents · Local LLMs (Ollama) |
+|Area                 |Details                                                      |
+|---------------------|-------------------------------------------------------------|
+|🐧 **Linux & Systems**|Ubuntu · Kali · Mint · CachyOS · GRUB · Multiboot            |
+|🌐 **Web Development**|HTML · CSS · JavaScript · WordPress · WooCommerce · Elementor|
+|🔧 **Hardware**       |Computer Assembly · Troubleshooting · OS Installation        |
+|🌍 **Networking**     |TCP/IP · Protocols · Internet Infrastructure · Wireshark     |
+|🔁 **Dev Tools**      |Git · VS Code · VirtualBox · LocalWP · Arduino               |
+|🤖 **AI & Automation**|Prompt Engineering · AI Agents · Local LLMs (Ollama)         |
 
 ### 🎨 Creative Skills
 
-| Area | Details |
-|------|---------|
-| ✏️ **Graphic Design** | Adobe Illustrator · Logo · Branding · Vector Art |
-| 📄 **Publishing** | Adobe InDesign · Book Layout · Technical Documentation |
-| 🎬 **Video** | Adobe Premiere Pro · CapCut · Editing & Production |
-| 🧊 **3D Design** | Blender · Modelling · Rendering |
-| 🏷️ **Brand Identity** | Product Labels · Packaging · Visual Identity Systems |
+|Area                |Details                                               |
+|--------------------|------------------------------------------------------|
+|✏️ **Graphic Design**|Adobe Illustrator · Logo · Branding · Vector Art      |
+|📄 **Publishing**    |Adobe InDesign · Book Layout · Technical Documentation|
+|🎬 **Video**         |Adobe Premiere Pro · CapCut · Editing & Production    |
+|🧊 **3D Design**     |Blender · Modelling · Rendering                       |
+|🏷️ **Brand Identity**|Product Labels · Packaging · Visual Identity Systems  |
 
----
+### 📱 Mobile & OS Modding
+
+|Area                    |Details                                                                         |
+|------------------------|--------------------------------------------------------------------------------|
+|🍎 **iOS Jailbreaking**  |palera1n · palen1x · checkm8 · Sileo · Rootless and Rootfull jailbreak on iOS   |
+|🤖 **Android Rooting**   |Custom recovery · Magisk · Root management · ADB & Fastboot                     |
+|💿 **Custom OS Flashing**|Custom ROMs · Stock debloating · Bootloader unlock.                             |
+
+-----
 
 ## 💻 Programming Languages
 
@@ -80,7 +88,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=light" />
 </div>
 
----
+-----
 
 ## 🧰 Technologies & Tools
 
@@ -103,7 +111,7 @@
 
 </div>
 
----
+-----
 
 ## 📂 Featured Projects
 
@@ -112,9 +120,11 @@
 <td width="50%" valign="top">
 
 ### 📘 The Computer Expedition Series
+
 **Self-Authored Technical Books · 2024–Present**
 
 Two full-length books written independently:
+
 - **Vol. 1** — Computer hardware, software & systems
 - **Vol. 2** — Networking: Wi-Fi, TCP/IP, routing, cybersecurity & Wireshark
 
@@ -124,9 +134,11 @@ Two full-length books written independently:
 <td width="50%" valign="top">
 
 ### 🐧 Multiboot Linux Lab
+
 **Personal Systems Project · 2024**
 
 Advanced multiboot environment on a 1TB SSD:
+
 - Kali · Ubuntu · Mint · CachyOS + more
 - Ventoy · GRUB customisation · USB boot tools
 - System administration & kernel-level exploration
@@ -139,9 +151,11 @@ Advanced multiboot environment on a 1TB SSD:
 <td colspan="2" valign="top">
 
 ### 🌿 Digrees Agro Products
+
 **Freelance Brand & Digital Project · 2023**
 
 End-to-end brand and digital presence for a Karnataka-based organic food brand:
+
 - Designed logo, product labels & packaging in Adobe Illustrator
 - Built and hosted full website using WordPress, WooCommerce & Elementor
 - Developed a companion mobile app
@@ -153,7 +167,38 @@ End-to-end brand and digital presence for a Karnataka-based organic food brand:
 </tr>
 </table>
 
----
+-----
+
+## 🔭 Currently Exploring
+
+<div align="center">
+
+|🍎                                                                  |🌐                                                               |📱                                                         |🖥️                                        |
+|-------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------|
+|**Hackintosh**                                                     |**Backend Web Dev (MERN)**                                      |**App Development**                                       |**AI & Local LLMs**                      |
+|Running macOS on non-Apple hardware — bootloaders, kexts & OpenCore|MongoDB · Express · React · Node.js — full-stack web development|Cross-platform mobile apps — React Native & native Android|Ollama · AI agents · automation workflows|
+
+</div>
+
+-----
+
+## 🚀 Future Plans
+
+> *Building toward the intersection of technology, automation, and business.*
+
+<div align="center">
+
+|Domain                           |Goal                                                                                   |
+|---------------------------------|---------------------------------------------------------------------------------------|
+|🤖 **Robotics & Drones**          |Building autonomous systems — hardware programming, flight controllers & embedded logic|
+|🔌 **IoT & Automation**           |Connected devices, smart systems, and real-world automation pipelines                  |
+|🧠 **AI & APIs**                  |Building and integrating AI-powered APIs and intelligent backend systems               |
+|📈 **Stocks & Finance**           |Algorithmic trading, market analysis, and financial automation                         |
+|🏢 **Business & Entrepreneurship**|Launching tech-driven ventures — from product to brand to scale                        |
+
+</div>
+
+-----
 
 ## 📊 GitHub Stats
 
@@ -169,19 +214,19 @@ End-to-end brand and digital presence for a Karnataka-based organic food brand:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammedRifaz&theme=warm&background=FDF5E6&ring=C5A47E&fire=8B4513&currStreakLabel=5C4033&border=C5A47E&dates=7A5230&sideLabels=5C4033&currStreakNum=8B4513&sideNums=8B4513" />
 </div>
 
----
+-----
 
 ## 🎯 Interests & Beyond
 
 <div align="center">
 
-| 💡 | 📡 | 🎬 | 🎨 | 🧩 | 🕹️ |
-|---|---|---|---|---|---|
-| Technology & Innovation | Networking & Internet Systems | Video Production & Editing | Design & Creativity | Problem Solving & Puzzles | Sim Racing & Hardware Builds |
+|💡                      |📡                            |🎬                         |🎨                  |🧩                        |🕹️                           |
+|-----------------------|-----------------------------|--------------------------|-------------------|-------------------------|----------------------------|
+|Technology & Innovation|Networking & Internet Systems|Video Production & Editing|Design & Creativity|Problem Solving & Puzzles|Sim Racing & Hardware Builds|
 
 </div>
 
----
+-----
 
 <div align="center">
 
