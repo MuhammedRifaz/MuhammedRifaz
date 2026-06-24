@@ -25,7 +25,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  🎓 PUC Commerce CEBA  ·  💻 Tech Enthusiast  ·  🚀 Entrepreneur │
+│  🎓    Commerce  ·  💻 Tech Enthusiast  ·  🚀 Entrepreneur     │
 │       I build across technology, design, and business           │
 │        from systems and networks to brands and websites         │
 └─────────────────────────────────────────────────────────────────┘
@@ -39,7 +39,7 @@
 
 > *“I don’t just learn — I build real systems, brands, and ideas from scratch.”*
 
-- 🎓 **Commerce (CEBA)** student at Aloysius College, Mangalore
+- 🎓 **Commerce** student at Aloysius College, Mangalore
 - 📚 **Self-authored** two technical books on computers and networking
 - 🌐 **Built and hosted** real websites and apps for local businesses
 - 🎨 **Freelance designer** — logos, labels, brand identity, packaging
