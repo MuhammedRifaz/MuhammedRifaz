@@ -13,7 +13,9 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mohammedrifaz0192%40gmail.com-C5A47E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:mohammedrifaz0192@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Mohammed%20Rifaz-C5A47E?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=1a1a1a)](http://www.linkedin.com/in/mohammed-rifaz-2558a9416)
 [![Instagram](https://img.shields.io/badge/Instagram-muhammed._.rifaz-C5A47E?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a)](https://instagram.com/muhammed._.rifaz)
+[![Threads](https://img.shields.io/badge/Threads-muhammed._.rifaz-C5A47E?style=for-the-badge&logo=Threads&logoColor=white&labelColor=1a1a1a)](https://www.threads.com/@muhammed._.rifaz)
 [![GitHub](https://img.shields.io/badge/GitHub-MuhammedRifaz-C5A47E?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/MuhammedRifaz)
 [![Location](https://img.shields.io/badge/Mangalore-Karnataka%2C%20India-C5A47E?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a1a)](https://maps.google.com)
 
@@ -123,7 +125,7 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=1a1a1a)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1a1a1a)
 ![LocalWP](https://img.shields.io/badge/LocalWP-3B82F6?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
-![Ghost](https://img.shields.io/badge/Ghost-15171A?style=for-the-badge&logo=ghost&logoColor=white)
+![Ghost](https://img.shields.io/badge/Ghost-15171A?style=for-the-badge&logo=ghost&logoColor=yellow)
 ![Ventoy](https://img.shields.io/badge/Ventoy-C5A47E?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
 
 </div>
@@ -260,6 +262,6 @@ Full jailbreak including a rare baseband/IMEI failure bypass:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&color=gradient&customColorList=0,2,4&text=Open%20to%20collaborations%20%E2%80%A2%20internships%20%E2%80%A2%20freelance%20work&fontColor=C5A47E&fontSize=15&fontAlignY=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=70&color=FDF5E6&text=Open%20to%20collaborations%20%E2%80%A2%20internships%20%E2%80%A2%20freelance%20work&fontColor=5C4033&fontSize=15&fontAlignY=50&animation=fadeIn"/>
 
 </div>
