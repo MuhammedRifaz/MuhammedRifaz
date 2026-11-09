@@ -33,7 +33,7 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
-│   🎓 Commerce CEBA  ·  💻 Tech Builder  ·  🚀 Aspiring Entrepreneur  │
+│      🎓 Studying  ·  💻 Tech Builder  ·  🚀 Aspiring Entrepreneur     │
 │        I build across technology, design, and business —             │
 │         from OS kernels and networks to brands and websites          │
 │              🏆 Attended 3 National-Level Hackathons                 │
@@ -48,7 +48,7 @@
 
 > *"I don't just learn — I build real systems, brands, and ideas from scratch."*
 
-- 🎓 **Commerce (CEBA)** student at Aloysius College, Mangalore
+- 🎓 **Studying** student at Aloysius College, Mangalore
 - 📚 **Self-authored** two technical books on computers and networking
 - 🌐 **Built and hosted** real websites and apps for local businesses
 - 🎨 **Freelance designer** — logos, labels, brand identity, packaging
